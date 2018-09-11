@@ -1,3 +1,5 @@
 这是合并分支的内容	
 edit test file
 这是mergedemo分支上添加的内容
+version1
+
